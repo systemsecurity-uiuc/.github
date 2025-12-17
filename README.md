@@ -44,3 +44,17 @@ Research from SSF-Lab has directly influenced and changed the security design of
 Across these efforts, the lab has uncovered 100+ previously unknown classes of security vulnerabilities, many of which exposed new attack surfaces and threat models that were not understood before.
 
 Our work has led to security design changes and fixes deployed at global scale, protecting hundreds of millions of users.
+
+## Publications & Recognition
+
+SSF-Lab publishes regularly in top-tier security and systems venues, including:
+
+- IEEE Symposium on Security & Privacy (Oakland)
+
+- ACM CCS
+
+- USENIX Security
+
+- NDSS
+
+Our research has been featured by major media outlets such as Time, CNN, Forbes, CNET, The Register, Yahoo, and others, reflecting both technical depth and real-world relevance.
