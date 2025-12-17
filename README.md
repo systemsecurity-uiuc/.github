@@ -70,3 +70,7 @@ A key example is our involvement in designing and releasing Natural Language Int
 🏛️ ECMA TC56: https://ecma-international.org/technical-committees/tc56/
 
 🏛️ ECMA-430 Natural Language Interaction Protocol (NLIP) 1st edition, December 2025 https://ecma-international.org/publications-and-standards/standards/ecma-430/
+
+📍 About
+
+The System Security Foundations Lab is directed by Prof. Luyi Xing, Associate Professor of Computer Science at UIUC, with prior industry experience building large-scale production systems and long-standing engagement with the global security research and hacking communities. System Security Foundations Lab works closely with Professor Xiaojing Liao at UIUC (https://www.xiaojingliao.com/), who has made signicantly contributions to our work that requires deep expertise in at least AI/NLP, AI agent, and software supply chain.
