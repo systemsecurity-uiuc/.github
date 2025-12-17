@@ -68,3 +68,5 @@ A key example is our involvement in designing and releasing Natural Language Int
 🌐 https://nlip-project.org
 
 🏛️ ECMA TC56: https://ecma-international.org/technical-committees/tc56/
+
+🏛️ ECMA-430 Natural Language Interaction Protocol (NLIP) 1st edition, December 2025 https://ecma-international.org/publications-and-standards/standards/ecma-430/
