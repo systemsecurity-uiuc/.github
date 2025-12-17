@@ -58,3 +58,13 @@ SSF-Lab publishes regularly in top-tier security and systems venues, including:
 - NDSS
 
 Our research has been featured by major media outlets such as Time, CNN, Forbes, CNET, The Register, Yahoo, and others, reflecting both technical depth and real-world relevance.
+
+## Standards & Ecosystems
+
+SSF-Lab actively engages with standards bodies, open-source communities, and industry partners to ensure research outcomes translate into practice.
+
+A key example is our involvement in designing and releasing Natural Language Interaction Protocol (NLIP)—the first formal standard for secure, interoperable communication among intelligent agents. NLIP aims to provide a predictable, policy-aware substrate for next-generation AI systems, analogous to the role TCP/IP and HTTP played for the Internet. NLIP is formally released by Ecma International on Dec. 10th, 2025. 
+
+🌐 https://nlip-project.org
+
+🏛️ ECMA TC56: https://ecma-international.org/technical-committees/tc56/
