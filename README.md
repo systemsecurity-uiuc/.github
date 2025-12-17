@@ -3,7 +3,7 @@ The System Security Foundations Lab (SSF-Lab) at UIUC conducts foundational rese
 
 SSF-Lab focuses on security as a system-level design problem, combining rigorous formal methods with empirical system analysis to deliver provable security guarantees and deployable protections.
 
-## Research Focus
+## 🔬 Research Focus
 
 SSF-Lab studies security and privacy challenges across the full system stack, with an emphasis on design-level vulnerabilities and long-term architectural correctness:
 
@@ -25,7 +25,7 @@ Authentication, access control, data isolation, and cross-service interactions
 - Software Supply Chain Security
 SDKs, libraries, CI/CD pipelines, and ecosystem-scale risk propagation
 
-## Real-World Impact
+## 🌍 Real-World Impact
 
 Research from SSF-Lab has directly influenced and changed the security design of widely deployed systems and products, including:
 
@@ -45,7 +45,7 @@ Across these efforts, the lab has uncovered 100+ previously unknown classes of s
 
 Our work has led to security design changes and fixes deployed at global scale, protecting hundreds of millions of users.
 
-## Publications & Recognition
+## 📄 Publications & Recognition
 
 SSF-Lab publishes regularly in top-tier security and systems venues, including:
 
@@ -59,7 +59,7 @@ SSF-Lab publishes regularly in top-tier security and systems venues, including:
 
 Our research has been featured by major media outlets such as Time, CNN, Forbes, CNET, The Register, Yahoo, and others, reflecting both technical depth and real-world relevance.
 
-## Standards & Ecosystems
+## 🤝 Standards & Ecosystems
 
 SSF-Lab actively engages with standards bodies, open-source communities, and industry partners to ensure research outcomes translate into practice.
 
