@@ -24,3 +24,23 @@ Authentication, access control, data isolation, and cross-service interactions
 
 - Software Supply Chain Security
 SDKs, libraries, CI/CD pipelines, and ecosystem-scale risk propagation
+
+## Real-World Impact
+
+Research from SSF-Lab has directly influenced and changed the security design of widely deployed systems and products, including:
+
+- Mobile and desktop platforms (Android, iOS, iPadOS, macOS)
+
+- Web browsers (Chrome, Safari, Firefox, Opera)
+
+- Cloud and IoT platforms (AWS IoT, Azure IoT, IBM IoT)
+
+- Smart home ecosystems (Apple Home / HomeKit, Google Home, SmartThings)
+
+- Large-scale apps, SDKs, and advertising platforms
+
+- Open-source and industry IoT standards
+
+Across these efforts, the lab has uncovered 100+ previously unknown classes of security vulnerabilities, many of which exposed new attack surfaces and threat models that were not understood before.
+
+Our work has led to security design changes and fixes deployed at global scale, protecting hundreds of millions of users.
